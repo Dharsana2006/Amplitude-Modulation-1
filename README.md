@@ -122,7 +122,8 @@ Output Waveform:
 
 
 TABULATION:
-![WhatsApp Image 2025-10-28 at 20 57 38_2b15d48c](https://github.com/user-attachments/assets/154ec078-8b09-4342-bba9-96e4e0c58d74)
+![Uploading WhatsApp Image 2025-10-28 at 21.43.05_ef278dc7.jpg…]()
+
 
 
 
