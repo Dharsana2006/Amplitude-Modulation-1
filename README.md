@@ -122,9 +122,8 @@ Output Waveform:
 
 
 TABULATION:
-![Uploading WhatsApp Image 2025-10-28 at 21.43.05_ef278dc7.jpg…]()
 
-
+![WhatsApp Image 2025-10-28 at 21 43 05_4bf4861d](https://github.com/user-attachments/assets/62af9b93-43de-4e63-a07f-bd09822c58bc)
 
 
 Calculation
