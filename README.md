@@ -140,4 +140,5 @@ MODEL GRAPH
 
 
 RESULT:
-Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
+<img width="1281" height="564" alt="image" src="https://github.com/user-attachments/assets/b02a7ccd-1a7f-47c5-af5a-b6d0008f3e83" />
+
